@@ -15,5 +15,6 @@ https://drive.google.com/file/d/1WjkBnQwC-xcKI6Wlp1Hqul_UoRL2M2qu/view
 <hr>
 
 ## 플레이 영상
-<iframe id="video" width="100%" height="100%" src="/Project Rhythm Clock 2022-02-28 00-38-36_Trim_Trim.mp4" frameborder="0">
-</iframe>
+<video width="100%" height="100%" controls="controls">
+  <source src="/Project Rhythm Clock 2022-02-28 00-38-36_Trim_Trim.mp4" type="video/mp4">
+</video>
